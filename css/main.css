@@ -226,7 +226,8 @@ input.input100 {
 .m1-txt1 {
     font-family: Barlow-Bold;
     font-size: 25px;
-    color: #999999;
+    color: rgba(255, 255, 255, 0.65);
+    ;
     line-height: 1.2;
 }
 
@@ -287,7 +288,7 @@ input.input100 {
 }
 
 .bg1 {
-    background-color: rgba(0, 50, 101, 0.46);
+    background-color: rgba(0, 50, 101, 0.86);
 }
 
 .bg-img1 {
@@ -701,7 +702,7 @@ input.input100 {
 
     /*---------------------------------------------*/
     .respon1 {
-        padding-top: 80px;
+        /* padding-top: 80px; */
     }
 
 }
