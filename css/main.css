@@ -12,6 +12,11 @@ Primary use:
 [ FONT ]*/
 
 @font-face {
+    font-family: TOS-Title;
+    src: url('../fonts/TOS_Title.ttf');
+}
+
+@font-face {
     font-family: Barlow-Regular;
     src: url('../fonts/Barlow/Barlow-Regular.ttf');
 }
