@@ -18,6 +18,13 @@ Primary use:
 
 h1 {
     font-family: Stardate, sans-serif;
+    font-size: 4.5rem;
+}
+
+@media screen and (max-width: 700px) {
+    h1 {
+        font-size: 3rem;
+    }
 }
 
 @font-face {
