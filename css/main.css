@@ -12,8 +12,12 @@ Primary use:
 [ FONT ]*/
 
 @font-face {
-    font-family: TOS-Title;
-    src: url('../fonts/TOS_Title.ttf');
+    font-family: Stardate;
+    src: url('../fonts/Stardate81316-aolE.ttf');
+}
+
+h1 {
+    font-family: Stardate, sans-serif;
 }
 
 @font-face {
@@ -30,6 +34,7 @@ Primary use:
     font-family: Barlow-Bold;
     src: url('../fonts/Barlow/Barlow-Bold.ttf');
 }
+
 
 
 /*//////////////////////////////////////////////////////////////////
